@@ -1,7 +1,7 @@
 ﻿using MonkePhone.Behaviours;
 using MonkePhone.Behaviours.UI;
 
-namespace BoxAppsExample.Apps
+namespace BoxAppsExample
 {
     public class ExampleApp : PhoneApp
     {
