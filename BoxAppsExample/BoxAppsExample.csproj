@@ -8,9 +8,6 @@
 		<Reference Include="MonkePhone">
 			<HintPath>$(PluginsPath)\MonkePhone.dll</HintPath>
 		</Reference>
-		<Reference Include="0Harmony">
-			<HintPath>$(BepInExAssemblyPath)\0Harmony.dll</HintPath>
-		</Reference>
 		<Reference Include="Assembly-CSharp">
 			<HintPath>$(GameAssemblyPath)\Assembly-CSharp.dll</HintPath>
 		</Reference>
